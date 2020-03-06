@@ -1,0 +1,114 @@
+      
+    ul li {
+           display: inline-block;
+            
+        }
+                
+    ul li a{
+            background-color:#f4511e;
+            text-decoration: none;
+            color:  white;
+            padding: 3px 10px;
+            border: 1px solid wheat;
+            font-family: 'proximanova-semibold-webfont';
+            }
+        .ul:hover
+                        {
+                opacity: 10
+            }          
+    .section1-element{
+
+        padding-top:20px ;   
+        width:80%;
+        flex-wrap: wrap;
+        display:flex;
+       }
+ 
+        
+    .img1{
+            width: 05%;
+            height: 20px;
+            
+        }
+
+    
+    .section2-element{  
+        padding-top: 20px;
+        margin-left: 200px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 650px; 
+        height:65px;
+      
+    } 
+
+    .getGaanaPlus{
+    border:1px  red;
+    border-style: solid;
+    padding: 15px;
+    text-emphasis-color: red;
+    color: red;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family: 'proximanova-semibold-webfont';
+    display: inline-block;
+    justify-content: center;
+    font-size: 15px;
+    padding-top:23px;
+    }
+
+    .downLoadApp{
+        display: flex;
+        width:200px;
+        height:60px;
+        border: black;
+    }
+
+    .span1{
+        width: 60%;
+        height: 100%;
+        padding: 0px;
+        padding-top: 4px;
+        padding-left: 5px;
+    }
+
+    .span2{
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 4px;
+    }
+
+    .span3{
+    padding-top:4px;
+    width:30%;
+    height: 100%;
+    display: inline-block;
+    }
+
+    .light{
+    padding-top: 4px;    
+    }
+
+
+    .language{
+        padding-top:4px;    
+    }
+
+
+    .signUp{
+        padding-top: 40px;
+        padding: 15px;   
+        background-color: aliceblue;
+        color: red;
+        border: red 1px solid; 
+        }
+
+
+
+
+
+
+
+
