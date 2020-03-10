@@ -1,0 +1,41 @@
+
+
+        $background-color:#F8F8F8;
+        $image-width: 50px;
+        $image-height:50px;
+        $font-family:'Ariel';
+        $width:300px;
+        $height:400px;
+
+        img{
+            width: $image-width;
+            height:$image-height;
+
+
+        }
+
+        .container{
+            background-color: $background-color;
+            width:$width;
+            height:$height;
+            }
+
+        
+
+        .One{
+                height:30px;
+                width: 80PX;
+                display: flex;
+                justify-content: center; 
+                padding-top: 20px;  
+                border: 1px solid black;
+                height: 50px;
+                background-color: $background-color;
+                font-family: $font-family;
+            }
+
+
+            // .image{
+            // width: $image-width;
+            // height:$image-height;    
+            // }
