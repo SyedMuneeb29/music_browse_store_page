@@ -1,0 +1,43 @@
+    .container{
+
+    width: 90px;
+    height:900px;
+    background-color:#DCDCDC;
+    border: 1px black solid;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    }
+    
+    
+    
+    ul{
+
+        margin-right: 35px;
+        padding:1px;
+        list-style-type: none;
+        padding-left:9px ;
+
+    }
+
+       
+    .elementOne{
+    width: 90%;
+    height:8%;
+    background-color:black;
+    margin: 5px;
+    background-color: transparent;
+    }
+
+
+    li{
+    width:50px;
+    height:50px;
+    margin-top: 5px;
+    padding: 10px;
+    display: block;
+    }
+
+
+
+
+
