@@ -1,0 +1,47 @@
+    .container{
+
+    width: 90px;
+    height:900px;
+    background-color: blueviolet;
+    border: 1px black solid;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    }
+    
+    
+    
+    ul{
+
+        margin-right: 35px;
+        padding:1px;
+        list-style-type: none;
+        padding-left:9px ;
+
+    }
+
+
+    
+    
+    .elementOne{
+    width: 90%;
+    height:8%;
+    background-color:white;
+    margin: 5px;
+    border-bottom: black solid 2px;
+    }
+
+
+    li{
+    background-color: wheat;
+    width:50px;
+    height:50px;
+    border: black solid 1px; 
+    margin-top: 5px;
+    padding: 10px;
+    display: block;
+    }
+
+
+
+
+
